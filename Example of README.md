@@ -1,4 +1,4 @@
-# data_analysis_EKPA_2022
+# Example of README.md
 # First try
 ## Learn *how to create* an account on Github
 ### Learn *how to create* Markdown Files
